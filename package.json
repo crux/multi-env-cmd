@@ -1,0 +1,35 @@
+{
+  "name": "@joe_six/multi-env",
+  "version": "1.0.0",
+  "description": "running scripts in ad-hoc blended enviroments",
+  "author": "dirk lüsebrink <dirk.luesebrink@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "shell",
+    "scripting",
+    "cmdline"
+  ],
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "src": {
+    "multi-env": "multi-env.js"
+  },
+  "bin": {
+    "multi-env": "multi-env.js"
+  },
+  "dependencies": {
+    "getenv": "^1.0.0",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crux/multi-env.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crux/multi-env.js/issues"
+  },
+  "homepage": "https://github.com/crux/multi-env.js#readme"
+}
