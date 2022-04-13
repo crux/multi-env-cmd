@@ -1,4 +1,4 @@
-# Ad-hoc mixing of multiple .env files into the Process enviroment
+# Ad-hoc mixing of multiple .env files into an Environment to run shell Commands in
 
 No a big thing. Mixing multiple .env config files in an ad-hoc fashion to run
 application. Usually in development. Like you have an programm which connects

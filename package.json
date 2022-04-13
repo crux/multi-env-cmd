@@ -1,6 +1,6 @@
 {
-  "name": "@joe_six/multi-env",
-  "version": "1.0.0",
+  "name": "@joe_six/multi-env-cmd",
+  "version": "0.0.1",
   "description": "running scripts in ad-hoc blended enviroments",
   "author": "dirk lüsebrink <dirk.luesebrink@gmail.com>",
   "license": "MIT",
