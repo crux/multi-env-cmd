@@ -23,7 +23,6 @@
     "getenv": "^1.0.0",
     "yargs": "^17.3.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/crux/multi-env.js.git"
