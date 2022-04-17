@@ -1,6 +1,6 @@
 {
   "name": "@joe_six/multi-env-cmd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "running scripts in ad-hoc blended enviroments",
   "author": "dirk lüsebrink <dirk.luesebrink@gmail.com>",
   "license": "MIT",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crux/multi-env.js.git"
+    "url": "git+https://github.com/crux/multi-env-cmd.git"
   },
   "bugs": {
-    "url": "https://github.com/crux/multi-env.js/issues"
+    "url": "https://github.com/crux/multi-env-cmd/issues"
   },
-  "homepage": "https://github.com/crux/multi-env.js#readme"
+  "homepage": "https://github.com/crux/multi-env-cmd#readme"
 }
